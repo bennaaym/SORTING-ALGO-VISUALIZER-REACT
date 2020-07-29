@@ -1,3 +1,11 @@
+# SORTING-ALGO-VISUALIZER-REACT
+
+### The Technologies Used:
+  * Tailwindcss
+  * React : 
+    * Hooks
+    * Framer-motion
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
